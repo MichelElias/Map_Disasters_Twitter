@@ -9,7 +9,7 @@ The goal of this project was to leverage social media to map disasters. In this 
 
 This project was developed by:
 - Belén Sánchez (https://www.linkedin.com/in/belen-sanchezh/), 
-- Ryan Steward(https://www.linkedin.com/in/rylativity/), 
+- Ryan Stewart(https://www.linkedin.com/in/rylativity/), 
 - Hakob Avjyan (https://www.linkedin.com/in/hakob-avjyan-7275a895/), and
 - Jonathan Slapnik(https://www.linkedin.com/in/jonathanslapnik/),
 
